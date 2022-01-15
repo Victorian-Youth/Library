@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="BookManagement:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f5118868-60d2-48f0-b6d2-11f7f89a3489" name="默认更改列表" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleLibraryManagementSystem-/BookManagement.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleLibraryManagementSystem-/lib/c3p0-0.9.5.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleLibraryManagementSystem-/lib/commons-dbutils-1.7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleLibraryManagementSystem-/lib/commons-fileupload-1.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleLibraryManagementSystem-/lib/commons-io-2.8.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleLibraryManagementSystem-/lib/jstl-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleLibraryManagementSystem-/lib/mchange-commons-java-0.2.19.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleLibraryManagementSystem-/lib/mysql-connector-java-8.0.27.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleLibraryManagementSystem-/lib/standard-1.1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleLibraryManagementSystem-/out/artifacts/BookManagement_war_exploded/Book.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleLibraryManagementSystem-/out/artifacts/BookManagement_war_exploded/Images/cat.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleLibraryManagementSystem-/out/artifacts/BookManagement_war_exploded/Images/icon_mail.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleLibraryManagementSystem-/out/artifacts/BookManagement_war_exploded/Images/mountain.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleLibraryManagementSystem-/out/artifacts/BookManagement_war_exploded/WEB-INF/Images/cat.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleLibraryManagementSystem-/out/artifacts/BookManagement_war_exploded/WEB-INF/Images/icon_mail.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleLibraryManagementSystem-/out/artifacts/BookManagement_war_exploded/WEB-INF/classes/c3p0-config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleLibraryManagementSystem-/out/artifacts/BookManagement_war_exploded/WEB-INF/classes/com/book/Bean/BookBean.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleLibraryManagementSystem-/out/artifacts/BookManagement_war_exploded/WEB-INF/classes/com/book/Bean/UserBean.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleLibraryManagementSystem-/out/artifacts/BookManagement_war_exploded/WEB-INF/classes/com/book/Dao/bookDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleLibraryManagementSystem-/out/artifacts/BookManagement_war_exploded/WEB-INF/classes/com/book/Dao/userDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleLibraryManagementSystem-/out/artifacts/BookManagement_war_exploded/WEB-INF/classes/com/book/Servlet/BookInsertServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleLibraryManagementSystem-/out/artifacts/BookManagement_war_exploded/WEB-INF/classes/com/book/Servlet/BookQueryServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleLibraryManagementSystem-/out/artifacts/BookManagement_war_exploded/WEB-INF/classes/com/book/Servlet/UserLoginServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleLibraryManagementSystem-/out/artifacts/BookManagement_war_exploded/WEB-INF/classes/com/book/Util/DBHelper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleLibraryManagementSystem-/out/artifacts/BookManagement_war_exploded/WEB-INF/lib/c3p0-0.9.5.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleLibraryManagementSystem-/out/artifacts/BookManagement_war_exploded/WEB-INF/lib/commons-dbutils-1.7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleLibraryManagementSystem-/out/artifacts/BookManagement_war_exploded/WEB-INF/lib/commons-fileupload-1.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleLibraryManagementSystem-/out/artifacts/BookManagement_war_exploded/WEB-INF/lib/commons-io-2.8.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleLibraryManagementSystem-/out/artifacts/BookManagement_war_exploded/WEB-INF/lib/jstl-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleLibraryManagementSystem-/out/artifacts/BookManagement_war_exploded/WEB-INF/lib/mchange-commons-java-0.2.19.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleLibraryManagementSystem-/out/artifacts/BookManagement_war_exploded/WEB-INF/lib/mysql-connector-java-8.0.27.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleLibraryManagementSystem-/out/artifacts/BookManagement_war_exploded/WEB-INF/lib/standard-1.1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleLibraryManagementSystem-/out/artifacts/BookManagement_war_exploded/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleLibraryManagementSystem-/out/artifacts/BookManagement_war_exploded/bookInsert.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleLibraryManagementSystem-/out/artifacts/BookManagement_war_exploded/bookQuery.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleLibraryManagementSystem-/out/artifacts/BookManagement_war_exploded/display.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleLibraryManagementSystem-/out/artifacts/BookManagement_war_exploded/errorPage.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleLibraryManagementSystem-/out/artifacts/BookManagement_war_exploded/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleLibraryManagementSystem-/out/artifacts/BookManagement_war_exploded/login.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleLibraryManagementSystem-/out/artifacts/BookManagement_war_exploded/login.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleLibraryManagementSystem-/out/production/BookManagement/c3p0-config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleLibraryManagementSystem-/out/production/BookManagement/com/book/Bean/BookBean.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleLibraryManagementSystem-/out/production/BookManagement/com/book/Bean/UserBean.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleLibraryManagementSystem-/out/production/BookManagement/com/book/Dao/bookDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleLibraryManagementSystem-/out/production/BookManagement/com/book/Dao/userDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleLibraryManagementSystem-/out/production/BookManagement/com/book/Servlet/BookInsertServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleLibraryManagementSystem-/out/production/BookManagement/com/book/Servlet/BookQueryServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleLibraryManagementSystem-/out/production/BookManagement/com/book/Servlet/UserLoginServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleLibraryManagementSystem-/out/production/BookManagement/com/book/Util/DBHelper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleLibraryManagementSystem-/src/c3p0-config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleLibraryManagementSystem-/src/com/book/Bean/BookBean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleLibraryManagementSystem-/src/com/book/Bean/UserBean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleLibraryManagementSystem-/src/com/book/Dao/bookDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleLibraryManagementSystem-/src/com/book/Dao/userDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleLibraryManagementSystem-/src/com/book/Servlet/BookInsertServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleLibraryManagementSystem-/src/com/book/Servlet/BookQueryServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleLibraryManagementSystem-/src/com/book/Servlet/UserLoginServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleLibraryManagementSystem-/src/com/book/Util/DBHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleLibraryManagementSystem-/web/Book.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleLibraryManagementSystem-/web/Images/cat.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleLibraryManagementSystem-/web/Images/icon_mail.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleLibraryManagementSystem-/web/Images/mountain.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleLibraryManagementSystem-/web/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleLibraryManagementSystem-/web/bookInsert.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleLibraryManagementSystem-/web/bookQuery.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleLibraryManagementSystem-/web/display.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleLibraryManagementSystem-/web/errorPage.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleLibraryManagementSystem-/web/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleLibraryManagementSystem-/web/login.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleLibraryManagementSystem-/web/login.jsp" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="23EwpIGrGp9Os5Ud2IMox0rpadj" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.book.Util" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\peggy\Desktop\BookManagement\web\Images" />
+      <recent name="C:\Users\peggy\Desktop\BookManagement\web" />
+      <recent name="C:\Users\peggy\Desktop\BookManagement\lib" />
+      <recent name="C:\Users\peggy\Desktop\BookManagement\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="excludedTypes">
+      <set>
+        <option value="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat 9.0.533">
+    <configuration name="BookQueryServlet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.book.Servlet.BookQueryServlet" />
+      <module name="BookManagement" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.book.Servlet.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bookDao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.book.Dao.bookDao" />
+      <module name="BookManagement" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.book.Dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="userDao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.book.Dao.userDao" />
+      <module name="BookManagement" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.book.Dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 9.0.533" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.533" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment>
+        <artifact name="BookManagement:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/BookManagement_war_exploded" />
+          </settings>
+        </artifact>
+        <file path="$PROJECT_DIR$/web/Images">
+          <settings>
+            <option name="CONTEXT_PATH" value="/Images" />
+          </settings>
+        </file>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Tomcat_9_0_533_BookManagement" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="63257" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="BookManagement:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.bookDao" />
+      <item itemvalue="Application.userDao" />
+      <item itemvalue="Application.BookQueryServlet" />
+      <item itemvalue="Tomcat Server.Tomcat 9.0.533" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.bookDao" />
+        <item itemvalue="Application.BookQueryServlet" />
+        <item itemvalue="Application.userDao" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.25984913" />
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f5118868-60d2-48f0-b6d2-11f7f89a3489" name="默认更改列表" comment="" />
+      <created>1641312735901</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1641312735901</updated>
+      <workItem from="1641312739813" duration="860000" />
+      <workItem from="1641361239529" duration="17413000" />
+      <workItem from="1641397644437" duration="32923000" />
+      <workItem from="1641545020823" duration="1713000" />
+      <workItem from="1641603239258" duration="4176000" />
+      <workItem from="1641693021725" duration="2078000" />
+      <workItem from="1642221701332" duration="25000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="96" y="28" width="1138" height="702" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1641453928146">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="96" y="28" width="1138" height="702" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.760@0.0.1280.760" timestamp="1641453928146" />
+    <state x="402" y="22" key="#com.intellij.ide.util.MemberChooser" timestamp="1641364109365">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="402" y="22" key="#com.intellij.ide.util.MemberChooser/0.0.1280.760@0.0.1280.760" timestamp="1641364109365" />
+    <state x="160" y="0" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable" timestamp="1641453920258">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="160" y="0" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable/0.0.1280.760@0.0.1280.760" timestamp="1641453920258" />
+    <state x="346" y="221" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1641363091699">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="346" y="221" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1280.760@0.0.1280.760" timestamp="1641363091699" />
+    <state x="315" y="0" key="FileChooserDialogImpl" timestamp="1641537464184">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="315" y="0" key="FileChooserDialogImpl/0.0.1280.760@0.0.1280.760" timestamp="1641537464184" />
+    <state width="1230" height="135" key="GridCell.Tab.0.bottom" timestamp="1641660140991">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1230" height="135" key="GridCell.Tab.0.bottom/0.0.1280.760@0.0.1280.760" timestamp="1641660140991" />
+    <state width="1230" height="135" key="GridCell.Tab.0.center" timestamp="1641660140991">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1230" height="135" key="GridCell.Tab.0.center/0.0.1280.760@0.0.1280.760" timestamp="1641660140991" />
+    <state width="1230" height="135" key="GridCell.Tab.0.left" timestamp="1641660140991">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1230" height="135" key="GridCell.Tab.0.left/0.0.1280.760@0.0.1280.760" timestamp="1641660140991" />
+    <state width="1230" height="135" key="GridCell.Tab.0.right" timestamp="1641660140991">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1230" height="135" key="GridCell.Tab.0.right/0.0.1280.760@0.0.1280.760" timestamp="1641660140991" />
+    <state width="1230" height="135" key="GridCell.Tab.1.bottom" timestamp="1641660140991">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1230" height="135" key="GridCell.Tab.1.bottom/0.0.1280.760@0.0.1280.760" timestamp="1641660140991" />
+    <state width="1230" height="135" key="GridCell.Tab.1.center" timestamp="1641660140991">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1230" height="135" key="GridCell.Tab.1.center/0.0.1280.760@0.0.1280.760" timestamp="1641660140991" />
+    <state width="1230" height="135" key="GridCell.Tab.1.left" timestamp="1641660140991">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1230" height="135" key="GridCell.Tab.1.left/0.0.1280.760@0.0.1280.760" timestamp="1641660140991" />
+    <state width="1230" height="135" key="GridCell.Tab.1.right" timestamp="1641660140991">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1230" height="135" key="GridCell.Tab.1.right/0.0.1280.760@0.0.1280.760" timestamp="1641660140991" />
+    <state width="1230" height="135" key="GridCell.Tab.2.bottom" timestamp="1641660140991">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1230" height="135" key="GridCell.Tab.2.bottom/0.0.1280.760@0.0.1280.760" timestamp="1641660140991" />
+    <state width="1230" height="135" key="GridCell.Tab.2.center" timestamp="1641660140991">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1230" height="135" key="GridCell.Tab.2.center/0.0.1280.760@0.0.1280.760" timestamp="1641660140991" />
+    <state width="1230" height="135" key="GridCell.Tab.2.left" timestamp="1641660140991">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1230" height="135" key="GridCell.Tab.2.left/0.0.1280.760@0.0.1280.760" timestamp="1641660140991" />
+    <state width="1230" height="135" key="GridCell.Tab.2.right" timestamp="1641660140991">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1230" height="135" key="GridCell.Tab.2.right/0.0.1280.760@0.0.1280.760" timestamp="1641660140991" />
+    <state width="882" height="256" key="GridCell.Tab.3.bottom" timestamp="1641478170339">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="882" height="256" key="GridCell.Tab.3.bottom/0.0.1280.760@0.0.1280.760" timestamp="1641478170339" />
+    <state width="882" height="256" key="GridCell.Tab.3.center" timestamp="1641478170338">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="882" height="256" key="GridCell.Tab.3.center/0.0.1280.760@0.0.1280.760" timestamp="1641478170338" />
+    <state width="882" height="256" key="GridCell.Tab.3.left" timestamp="1641478170338">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="882" height="256" key="GridCell.Tab.3.left/0.0.1280.760@0.0.1280.760" timestamp="1641478170338" />
+    <state width="882" height="256" key="GridCell.Tab.3.right" timestamp="1641478170339">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="882" height="256" key="GridCell.Tab.3.right/0.0.1280.760@0.0.1280.760" timestamp="1641478170339" />
+    <state x="0" y="0" key="SettingsEditor" timestamp="1641604742117">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="0" y="0" key="SettingsEditor/0.0.1280.760@0.0.1280.760" timestamp="1641604742117" />
+    <state x="254" y="163" key="com.intellij.ide.util.TipDialog" timestamp="1641603237218">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="254" y="163" key="com.intellij.ide.util.TipDialog/0.0.1280.760@0.0.1280.760" timestamp="1641603237218" />
+    <state x="0" y="0" key="new project wizard" timestamp="1641660005856">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="0" y="0" key="new project wizard/0.0.1280.760@0.0.1280.760" timestamp="1641660005856" />
+    <state x="219" y="0" width="840" height="1034" key="search.everywhere.popup" timestamp="1641363695406">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="219" y="0" width="840" height="1034" key="search.everywhere.popup/0.0.1280.760@0.0.1280.760" timestamp="1641363695406" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/book/Servlet/BookQueryServlet.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
